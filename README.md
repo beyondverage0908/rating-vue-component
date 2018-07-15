@@ -17,7 +17,7 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-# rating-vue-component
+# 构建你的第一个Vue.js组件
 
 我记得当时我拿起CakePHP，我很喜欢开始使用它是多么容易。这些文档不仅结构合理，详尽无遗，而且用户友好。多年以后，这正是我在Vue.js中感受到的。然而，与Cake相比，Vue文档仍然缺少一件事：一个真实的项目教程。
 
